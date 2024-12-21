@@ -1,0 +1,56 @@
+*{
+    margin: 0%;
+    padding: 0;
+    font-family: cursive;
+
+}
+header{
+    text-align: center;
+}
+h1{
+    color: blue;
+
+}
+div{
+    width: 90%;
+    height: 250px;
+    margin: 20px;
+    line-height: 3;
+    background-color: #ddd;
+    border: solid;
+    border-radius: 20px;
+    border-color: rgb(241, 16, 16);
+}
+img:hover{
+    width: 200px;
+}
+input{
+    margin: 10px;
+    color: blue;
+    text-align: center;
+    border-color: aquamarine;
+    position: relative;
+    left: 10%;
+
+}
+button{
+
+position: relative;
+left: 50%;
+background-color: red;
+color: white;
+width: 70px;
+padding: 3px;
+border-radius: 5px;
+top: 80px;
+}
+button:hover{
+    background-color: blue;
+
+}
+form{
+    background-color: rgb(147, 104, 204);
+    border-radius: 15px;
+    position: relative;
+    top: 30px;
+}
